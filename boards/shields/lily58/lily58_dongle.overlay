@@ -16,7 +16,7 @@
 
     &physical_layout0 {
         transform = <&kata0510_lily58_layout>;
-    }
+    };
 
     default_transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
